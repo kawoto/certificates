@@ -1,17 +1,21 @@
-Introduction to Parallel Programming with CUDA
-* This course is part of GPU Programming Specialization
-This course on Introduction to Parallel Programming with CUDA is an absolute game-changer! As a student,
-I was able to unlock the full potential of GPU programming by learning how to leverage the CUDA framework
-to write high-performance C/C++ software that runs seamlessly on both CPUs and Nvidia GPUs.
+Introduction to Parallel Programming with CUDA:
+- This course teaches you how to use CUDA for high-performance programming on GPUs.
+- You'll learn to write fast C/C++ software that works on both CPUs and Nvidia GPUs.
+- The hands-on approach helps you improve code speed and efficiency.
+- Highly recommended for anyone interested in GPU programming.
 
-The instructors provided clear and concise explanations, guiding me through the process of transforming 
-sequential CPU algorithms into CUDA kernels that execute hundreds to thousands of times simultaneously on GPU hardware.
-
-The hands-on approach of this course allowed me to gain practical experience in parallel programming, 
-and I was amazed by the speed and efficiency improvements I achieved in my code. By the end of the course, 
-I felt confident in my ability to harness the power of GPUs for parallel processing tasks.
-
-I highly recommend this course to anyone looking to delve into the world of GPU programming. 
-It's a comprehensive and well-structured program that equips students with the knowledge 
-and skills needed to excel in this rapidly evolving field. Thank you to the instructors 
-for creating such an invaluable learning experience!
+Ethical Hacking Essentials (EHE):
+- This course covers cybersecurity threats and countermeasures.
+- Learn about malware, network attacks, and application-level exploits.
+- Gain practical experience in simulated environments.
+- Recommended for those interested in information security and ethical hacking.
+- 
+Building Web Applications in Django
+- Django Data Model: Represents database tables using Python classes that subclass django.db.models.Model.
+- Django Model Query: Use Django ORM to query and manipulate data in the database.
+- Django Template Language (DTL): Write dynamic HTML templates using template tags and filters.
+- Class: Blueprint for creating objects with defined properties and behaviors.
+- Instance: Specific object created from a class with its attributes.
+- Method: Function within a class that can perform actions on instances.
+- Build Forms in HTML: Define form fields and attributes in HTML for user input.
+- Skills: Gain expertise in Django, HTTP methods, CSRF protection, OOP, and DTL.
